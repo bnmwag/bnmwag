@@ -1,6 +1,3 @@
-18yo, motivated, WebDev, ... and that porsche
-<br /><br /><br /><br />
-
 ### Current stack
 
 current tech i use for the most projects. depends of course
