@@ -1,6 +1,6 @@
 18yo, motivated, ... and that porsche 
 
-current stack for the most projects. depends of course
+current stack for the most projects. depends of course <br />
 [![PNPM](https://img.shields.io/badge/pnpm-black?style=for-the-badge&logo=pnpm)]()
 [![Typescript](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript)]()
 [![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)]()
