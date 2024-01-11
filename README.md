@@ -1,6 +1,3 @@
-### Current stack
-
-current tech i use for the most projects. depends of course
 
 #### coding
 
