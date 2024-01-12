@@ -20,3 +20,37 @@
 [![Blender](https://img.shields.io/badge/blender-black?style=for-the-badge&logo=blender)]()
 [![AfterEffects](https://img.shields.io/badge/After_Effects-black?style=for-the-badge&logo=adobeAfterEffects)]()
 [![PremierePro](https://img.shields.io/badge/Premiere_Pro-black?style=for-the-badge&logo=adobePremierePro)]()
+
+
+          ░░                              ░░                    
+          ▒▒                              ░░                    
+          ██                              ▒▒                    
+          ██                              ▓▓                    
+        ░░██                              ▓▓                    
+        ▓▓▓▓░░                            ██                    
+      ░░▒▒▒▒▓▓                          ░░██                    
+░░▒▒██▓▓░░░░▒▒▓▓██▓▓░░                  ▒▒▓▓░░                  
+    ░░▓▓░░░░▒▒▓▓░░                      ▓▓▓▓░░                  
+        ▓▓▒▒▓▓                          ▓▓▒▒▓▓                  
+        ▓▓▓▓░░                          ▓▓░░▓▓                  
+        ░░▓▓                          ░░▒▒░░▓▓                  
+          ██                          ▒▒░░░░▒▒░░                
+          ██                        ░░▒▒░░  ░░▓▓                
+          ▒▒                    ▒▒▓▓▒▒░░    ░░░░▓▓▒▒            
+                  ░░░░▓▓▓▓████▓▓▒▒░░░░          ░░▒▒▓▓████▓▓▒▒░░
+                            ░░▒▒▓▓▒▒░░          ░░▒▒▒▒          
+                                  ▒▒▒▒░░░░░░  ░░▓▓░░            
+                    ░░              ░░▒▒░░░░░░▓▓                
+                    ▒▒                ▓▓░░░░▒▒▒▒                
+                    ▓▓                ░░▒▒░░▒▒                  
+                    ██                  ▒▒░░▓▓                  
+                    ▓▓                  ▓▓▒▒▓▓                  
+                  ░░▓▓▓▓                ▓▓▒▒▒▒                  
+              ░░▒▒▒▒░░▒▒▓▓░░░░          ▒▒▓▓░░                  
+                ▓▓▒▒░░░░██░░            ░░██                    
+                  ▓▓▒▒▓▓░░                ▓▓                    
+                  ░░▓▓▒▒                  ██                    
+                    ██                    ▓▓                    
+                    ▓▓                    ▒▒                    
+                    ▓▓                    ░░                    
+                    ▒▒                                          
